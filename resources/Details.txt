@@ -1,0 +1,11 @@
+URL: localhost:8000/login
+User ID: ruhul_amin@gmail.com
+Pass: asdfg
+
+= = = = = Slider = = = =
+Table: home_pages
+Controller: HomePageController
+Model: HomePage
+Admin index: resources\views\admin\pages\home\slider\index.blade.php
+Ajax: public\admin\assets\js\honeyhome\script.js
+Image Upload: public\media\sliders
